@@ -7,4 +7,5 @@ Some of the results of the programme are as follows:
 
 ![image](https://github.com/mbaell00/DEX-Deep-Expectation-/assets/72200108/50b1acb3-d475-4cdf-a07c-af79c49a348e)
 
-![image](https://github.com/mbaell00/DEX-Deep-Expectation-/assets/72200108/35fcd839-9da9-4e05-af56-16ce4524e4ec)
+![image](https://github.com/mbaell00/DEX-Deep-Expectation-/assets/72200108/2b50655a-ef9b-45b3-8b2d-f23b2006b0b7)
+
